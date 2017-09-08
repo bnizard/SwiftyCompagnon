@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let clientSecret = "357d8c1567f770af7231f03d495f3f08a7de30fee2f9e5fb4f9e82a4804a862f"
+    let clientSecret = "357d8c1567f770af7231f03d495f3f08a7de30fee2f9e5fb4f9e82a4804a862"
     let clientUid = "27a63c34f5b3546accf98937afc2e800080a775826700c34ec51dc9b45fdc2c9"
 
     struct token {
