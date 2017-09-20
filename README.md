@@ -1,5 +1,5 @@
 # SwiftyCompagnon
-Projet en Swift avec utilisation de l'api de 42.
+Projet en Swift avec utilisation de l'API de 42.
 
 Première vue: recherche avec un login
 
